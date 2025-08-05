@@ -45,7 +45,7 @@ A Python-based tool that fetches historical stock data, calculates key technical
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/stock-strategy-backtester.git
+   git clone https://github.com/adventurejock/stock-strategy-backtester.git
    cd stock-strategy-backtester
 
 2. # (Optional) Create a virtual environment
@@ -58,9 +58,3 @@ pip install -r requirements.txt
 4. # Run the script
 python backtester.py
 
-## File Structure
-stock-strategy-backtester/
-├── backtester.py        # Main script
-├── requirements.txt     # Python dependencies
-├── README.md            # Project documentation
-└── .gitignore           # Files to ignore in version control
