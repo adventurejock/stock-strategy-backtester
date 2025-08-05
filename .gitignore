@@ -1,0 +1,14 @@
+# Ignore virtual environments
+.venv/
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Jupyter notebooks (if any)
+.ipynb_checkpoints/
+
+# OS-specific
+.DS_Store
+Thumbs.db
